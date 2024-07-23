@@ -1,0 +1,88 @@
+CONCATENATION
+
+#CODE
+
+myName = input("What's your name? ")
+myLunch = input("What are you having for lunch? ")
+print(myName, "is going to be chowing down on", myLunch,"very soon!")
+print("That's really cool!", myName)
+
+print()
+
+number = input("Give me a number: ")
+group = input("Give me a collective noun for a group of things: ")
+thing = input("Give me the name of a weird or wacky thing: ")
+print("No I don't think that", number, "is a", group, "of", thing,". That's just odd.")
+
+print()
+
+yourName = input("Name: ")
+whatYear = input("What year is it?: ")
+print(yourName, "thinks it is", whatYear)
+
+print()
+
+print("=== Your Song Generator ===")
+print("""You'll be asked a bunch of questions
+then we'll make you up an amazing
+song, totally copyright free 😭""")
+print()
+person = input("Name a person famous for something good: ")
+thing = input("Name a thing they did: ")
+place = input("Name a place you like: ")
+rhyme = input("Give me a verb that rhymes with your person's name: ")
+print()
+print("There was a person called", person)
+print("Who did something cool like", thing, "at the wonderful place", place,"where you'll find him with", rhyme)
+
+print()
+
+food = input("Name a food: ")
+plant = input("Name a type of plant: ")
+method = input("Name a method of cooking: ")
+burned = input("What word describes for a burned food?: ")
+household = input("Name a DIY item: ")
+serve = input("Serve a food with?: ")
+print()
+
+print("MENU")
+print(method, food, "with", burned, plant, "plant on a bed of", household, "and serve it with", serve)
+
+#Interpret
+
+What's your name? Simran
+What are you having for lunch? Fried Rice
+Simran is going to be chowing down on Fried Rice very soon!
+That's really cool! Simran
+
+Give me a number: 5
+Give me a collective noun for a group of things: People 
+Give me the name of a weird or wacky thing: unusual
+No I don't think that 5 is a People of unusual . That's just odd.
+
+Name: Simran
+What year is it?: 2024
+Simran thinks it is 2024
+
+=== Your Song Generator ===
+You'll be asked a bunch of questions
+then we'll make you up an amazing
+song, totally copyright free 😭
+
+Name a person famous for something good: Krishn
+Name a thing they did: Fulfill everyone's wish
+Name a place you like: Mathura
+Give me a verb that rhymes with your person's name: RamaKrishn
+
+There was a person called Krishn
+Who did something cool like Fulfill everyone's wish at the wonderful place Mathura where you'll find him with RamaKrishn
+
+Name a food: Fried rice
+Name a type of plant: Cactus
+Name a method of cooking: Salute
+What word describes for a burned food?: Ruined
+Name a DIY item: Glass
+Serve a food with?: Broken Heart
+
+MENU
+Salute Fried rice with Ruined Cactus plant on a bed of Glass and serve it with Broken Heart
