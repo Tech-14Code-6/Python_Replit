@@ -1,0 +1,47 @@
+How to Print the value
+
+#CODE
+
+print("Hello Replit")
+print("and how are you?")
+print("""
+Here's an exact
+      BIT
+        OF
+          TEXT
+""")
+print("Please work")
+print("☀")
+print()
+print("Simran Sinha")
+print("July 23rd 2024")
+print("""
+I am signing up for Replit's 100 days of Python challenges!
+I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.
+I'll be using Replit, an amazing online IDE so I can do this from my phone whenever I happen to be. No excuses for not coding from the middle of a field! 
+""")
+print("I am feeling 🥳")
+print("You can follow my progress at replit.com/@simransinha")
+
+#Interpret
+
+Hello Replit
+and how are you?
+
+Here's an exact
+      BIT
+        OF
+          TEXT
+
+Please work
+☀
+
+Simran Sinha
+July 23rd 2024
+
+I am signing up for Replit's 100 days of Python challenges!
+I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.
+I'll be using Replit, an amazing online IDE so I can do this from my phone whenever I happen to be. No excuses for not coding from the middle of a field! 
+
+I am feeling 🥳
+You can follow my progress at replit.com/@simransinha
