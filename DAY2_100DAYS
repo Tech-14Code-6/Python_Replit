@@ -1,0 +1,111 @@
+INPUT and VARIABLES
+
+#CODE
+
+myName = input("What's you name? ")
+myAge = input("How old are you? ")
+print("That's REALLY great, You're too young to be here!")
+replit = input("Do you like Replit? ")
+print("WOW that's great!")
+print()
+print("So, who you are")
+print(myName)
+print("and what's your age")
+print(myAge)
+print("and what you think about Replit")
+print(replit)
+
+print()
+
+print("Definitely not a Phishing Scam")
+print()
+myName = input("Your Name")
+print("Thanks for logging in")
+print(myName)
+cardNumber = input("What is your credit card number?")
+print("Thanks, I definitely wont put")
+print("cardNumber")
+print("into Amazon and order anything weird")
+print()
+print("Promise")
+maidenName = input("What is your Mother's maiden name? ")
+print()
+print("That's cool, I just wanted to know that")
+print(maidenName)
+print("was your Mum's maiden name. Not because the bank requested it or anything, honest.")
+
+print()
+
+print("Getting to know you!")
+YourName = input("What is your name?")
+YourSex = input("What is your sex?")
+YourPhone = input("What is your phone number?")
+YourEmail = input("What is your email?")
+Hungry = input ("What is your favorite food?")
+Music = input("What is your favorite music?")
+WhereAreYouFrom = input("Where are you from?")
+print()
+print("Give some details about Yourself: ")
+print()
+print(YourName)
+print(YourSex)
+print(YourPhone)
+print(YourEmail)
+print(Hungry)
+print(Music)
+print(WhereAreYouFrom)
+print()
+print("Have a great day!")
+
+#Interpret
+
+What's you name? Simran
+How old are you? 23
+That's REALLY great, You're too young to be here!
+Do you like Replit? Yes
+WOW that's great!
+
+So, who you are
+Simran
+and what's your age
+23
+and what you think about Replit
+Yes
+
+Definitely not a Phishing Scam
+
+Your Name Simran
+Thanks for logging in
+ Simran
+What is your credit card number? 7845961235794682
+Thanks, I definitely wont put
+cardNumber
+into Amazon and order anything weird
+
+Promise
+What is your Mother's maiden name? xyz
+
+That's cool, I just wanted to know that
+xyz
+was your Mum's maiden name. Not because the bank requested it or anything, honest.
+
+Getting to know you!
+What is your name? Simran
+What is your sex? Female
+What is your phone number? 8794563129
+What is your email? xyz@gmail.com
+What is your favorite food? Fried Rice
+What is your favorite music? Radhe Braj Jan Man Sukhkari
+Where are you from? Pune
+
+Give some details about Yourself: 
+
+ Simran
+ Female
+ 8794563129
+ xyz@gmail.com
+ Fried Rice
+ Radhe Braj Jan Man Sukhkari
+ Pune
+
+Have a great day!
