@@ -1,0 +1,35 @@
+Challenge Task
+  
+#CODE
+
+print("MY LOGIN SYSTEM")
+print("+++++++++++++++")
+username = input("Username >")
+password = input("Password >")
+if username == "David" and password == "totallyNotBald":
+  print("Why hello there David, what a lovely accent you have, you could" + 
+  "charmed your way in here eve without a password.")
+elif username == "johny" and password == "johny":
+     print("Have a great day. ")
+else:
+    print("Don't forget to war a hat in the sun! ")
+
+#Interpret
+
+MY LOGIN SYSTEM
++++++++++++++++
+Username >David
+Password >totallyNotBald
+Why hello there David, what a lovely accent you have, you couldcharmed your way in here eve without a password.
+
+MY LOGIN SYSTEM
++++++++++++++++
+Username >johny
+Password >johny
+Have a great day.
+
+MY LOGIN SYSTEM
++++++++++++++++
+Username >john
+Password >joh
+Don't forget to war a hat in the sun!
