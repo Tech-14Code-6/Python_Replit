@@ -15,6 +15,24 @@ elif Singer == "Devi Neha Saraswat":
 else:
   print("Yeah, great conversation...")
 
+print()
+
+order = input("What would you like to order: pizza or hamburger? ")
+if order == "hamburger":
+  print("Thank you.")
+  cheese = input("Do you want cheese?")
+  if cheese == "yes":
+     print("You got it.")
+  else: 
+    print("No cheese it is.")
+elif order == "pizza":
+  print("Pizza coming up.")
+  toppings = input("Do you want pepperoni on that?")
+  if toppings == "yes":
+    print("We will add pepperoni.")
+else:
+  print("Your pizza will not have pepperoni.")
+
 #Interpret
 
 Which singer's song you hear the most? Hansraj Raghuvanshi
@@ -27,3 +45,8 @@ Loved with her song
 
 Who is your favorite singer? Arijit
 Yeah, great conversation...
+
+What would you like to order: pizza or hamburger? pizza
+Pizza coming up.
+Do you want pepperoni on that?yes
+We will add pepperoni.
