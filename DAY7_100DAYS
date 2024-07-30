@@ -1,0 +1,29 @@
+Nesting Code
+
+#CODE
+
+Singer = input("Who is your favorite singer? ")
+if Singer == "Hansraj Raghuvanshi":
+  print("Wow, that's great choice!")
+  favSong = input("Which song you loved the most? ")
+  if favSong == "Shiv Sama Rahe Mujh Mein":
+    print("Shivay 🙏🏻")
+  else:
+    print("Nah, Hansraj is the best")
+elif Singer == "Devi Neha Saraswat":
+  print("Loved with her song")
+else:
+  print("Yeah, great conversation...")
+
+#Interpret
+
+Which singer's song you hear the most? Hansraj Raghuvanshi
+Wow, that's great choice!
+Which song you loved the most? Shiv Sama Rahe Mujh Mein
+Shivay 🙏🏻
+
+Who is your favorite singer? Devi Neha Saraswat
+Loved with her song
+
+Who is your favorite singer? Arijit
+Yeah, great conversation...
