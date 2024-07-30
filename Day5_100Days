@@ -1,0 +1,50 @@
+Challenge Task
+
+#CODE
+
+print("Marvel Movie Character Creator ")
+print("--")
+print()
+spiderMan = input("Do you like 'hanging around'? : ")
+if spiderMan == "Yes":
+  print("You are Spider-Man!")
+else:
+  print("Then you're not a Spider-Man")
+print()
+korg = input("Do you have a 'gravelly' voice? : ")
+if korg == "Yes":
+  print("You are Korg!")
+else:
+  print("Aww, then you're not Korg")
+print()
+CaptainMarvel = input("Do you often feel 'Marvelous'? : ")
+if CaptainMarvel == "Yes":
+  print("Aha! You're Captain Marvel! Hi! ")
+else:
+  print("You're not Captain Marvel ")
+
+#Interpret
+
+Marvel Movie Character Creator 
+--
+
+Do you like 'hanging around'? : No
+Then you're not a Spider-Man
+
+Do you have a 'gravelly' voice? : No
+Aww, then you're not Korg
+
+Do you often feel 'Marvelous'? : Yes
+Aha! You're Captain Marvel! Hi!
+
+Marvel Movie Character Creator 
+--
+
+Do you like 'hanging around'? : Yes
+You are Spider-Man!
+
+Do you have a 'gravelly' voice? : Yes
+You are Korg!
+
+Do you often feel 'Marvelous'? : No
+You're not Captain Marvel
