@@ -1,0 +1,30 @@
+Elif
+
+#CODE
+
+print("SECURE LOGIN")
+username = input("Username > ")
+password = input("Password > ")
+if username == "simu" and password == "simu14":
+  print("Welcome Simu!")
+elif username == "mit" and password == "mit31":
+  print("Hey there Mit!")
+elif username == "tanu" and password == "tanu6":
+  print("Hello Tanya!")
+else:
+  print("Go away!")
+
+#Interpret
+
+SECURE LOGIN
+Username > simu
+Welcome Simu!
+
+SECURE LOGIN
+Username > simran
+Go away!
+
+SECURE LOGIN
+Username > simu
+Password > 14
+Go away!
