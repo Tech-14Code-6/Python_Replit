@@ -1,0 +1,28 @@
+If this .... Else that
+
+#CODE
+
+myName = input("What is your name? : ")
+if myName == "Simran":
+  print("Welcome Simran!")
+  print("You are the best coder!")
+else:
+  print("Who are you on this board?!")
+
+catsOrDogs = input("Are you a cat person? Or a dog person?: ")
+if catsOrDogs == "cats":
+  print("Meow")
+else:
+  print("Woof")
+
+#Interpret
+
+What is your name? : Simran
+Welcome Simran!
+You are the best coder!
+
+What is your name? : Rahul
+Who are you on this board?!
+
+Are you a cat person? Or a dog person?: cats
+Meow
